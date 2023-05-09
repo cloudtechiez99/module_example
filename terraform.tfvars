@@ -1,4 +1,4 @@
-project_name          = "student-00338"
+project_name          = "adept-primacy-383707"
 region_name           = "us-central1"
 zone_name             = "us-central1-c"
 resource_name         = "terraform-example"
