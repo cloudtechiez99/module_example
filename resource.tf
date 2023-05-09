@@ -16,6 +16,7 @@ resource "google_compute_instance" "vm_instance" {
   }
 }
 
+/*
 resource "google_storage_bucket" "auto-expire" {
   name          = var.bucket_name
   location      = "US"
@@ -30,3 +31,4 @@ resource "google_compute_network" "vpc_network" {
   auto_create_subnetworks = var.subnetwork_create_status
   mtu                     = var.network_mtu
 }
+*/
