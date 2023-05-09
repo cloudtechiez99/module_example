@@ -1,3 +1,8 @@
+variable "creds" {
+  type = string
+  description = "credentials"
+}
+
 variable "project_name" {
   type        = string
   description = "Name of the project to create the resources."
